@@ -25,8 +25,8 @@ var printemoji = function(i){
 
 }
 
-
 printemoji(0);
+// printemoji(76);
 
 // for (var i = 0; i <= emojis.length - 1; i++) {
 // 	setTimeout(printemoji(i), 1000);
